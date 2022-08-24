@@ -5,6 +5,6 @@
 
  <p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800" height="400">
+  <img src="TDV_M184_02.png" alt="Coder GIF" width="800" height="400">
   
 </p>
